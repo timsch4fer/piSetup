@@ -1,4 +1,4 @@
 # piSetup
 
 ## Welcome script
-'''sudo crontab -e'''
+```sudo crontab -e```
