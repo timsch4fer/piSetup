@@ -1,7 +1,7 @@
 # piSetup
 
-## Welcome script
-Use ```sudo crontab -e``` and let the welcome.sh script execute at prefered time
+## Scripts
+Use ```sudo crontab -e``` and let the update.sh script execute at prefered time
 
 ## Vim setup
 locate in /home/pi/.config/nvim/init.vim
